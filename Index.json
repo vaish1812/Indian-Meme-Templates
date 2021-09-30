@@ -247,16 +247,34 @@
         "description": "Its not funny",
         "template": "https://memetemplatehouse.com/wp-content/uploads/2021/08/its-not-funny-znmd-meme-template-768x507.jpg" 
   },
+  
  {
         "id": 37,
         "name": "Jethalal",
         "description": "aye pagal aurat",
         "template": "https://www.ohyaaro.com/funny-memes-for-girlfriend-jethalal-memes/"
   },
+
+   {
+        "id": 38,
+        "name": "Meena Kota Factory S2",
+        "description": "Ajeeb se chitra ghumte hai dimag me",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/ajeeb-se-chitra-ghumte-rehte-hai-dimaag-mai.jpg"
+  },
+    {
+        "id": 39,
+        "name": "Jethalal",
+        "description": "aye pagal aurat",
+        "template": "https://www.ohyaaro.com/funny-memes-for-girlfriend-jethalal-memes/"
+
+  },
+
   {
         "id": 40,
-        "name": "It’s funny -Akshay Kumar",
-        "description": "AK Bollywood Memes",
-        "template": "https://indianmemetemplates.com/akshay-kumar-meme-templates/"
-    },
+        "name": "Bahubabli",
+        "description": "Job problem 2021",
+        "template": "https://i.pinimg.com/originals/9b/6b/06/9b6b067742da9487aaa51dae6b01e355.jpg"
+    }
+
+
 ]
