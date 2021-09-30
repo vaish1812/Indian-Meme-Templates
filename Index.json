@@ -170,6 +170,18 @@
         "name": "Paisa hi Paisa hoga",
         "description": "Paisa hi Paisa hoga - Phir Hera Pheri",
         "template": "https://i.pinimg.com/originals/a9/8a/57/a98a5795571b4692b897c2d0a7a4a010.jpg"
+    },
+    {
+        "id": 26,
+        "name": "I am NOOB",
+        "description": "I am NOOB - Tanmay Bhat",
+        "template": "https://i.ytimg.com/vi/CHhKUGdt1Yk/maxresdefault.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bahut Tez Ho Rahe Ho",
+        "description": "Bahut Tez Ho Rahe Ho - Carry Minati",
+        "template": "https://humornama.com/wp-content/uploads/2020/12/Bahut-Tez-Ho-Rahe-Ho-meme-template-of-CarryMinati-608x342.jpg"
     }
   
 ]
