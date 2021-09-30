@@ -237,7 +237,13 @@
         "name": "Jethalal",
         "description": "Kya takleef hai aapko",
         "template": "https://images.app.goo.gl/4AVmg4B97LmPZQmo7"
-  }
+  },
+  {
+        "id": 35,
+        "name": "Shehnaaz Gill",
+        "description": "Kya Kru Mai mar Jau",
+        "template": "http://www.scrolldroll.com/wp-content/uploads/2021/01/Kya-karu-main-mar-jau-Viral-Indian-Meme-Templates-From-2020-01.jpg"
+    },
 
 
 ]
