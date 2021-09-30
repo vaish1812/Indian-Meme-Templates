@@ -243,12 +243,19 @@
         "name": "Hrithik Roshan",
         "description": "Its not funny
         "template": "https://memetemplatehouse.com/wp-content/uploads/2021/08/its-not-funny-znmd-meme-template-768x507.jpg" 
-  }
+  },
+  
  {
-        "id": 35,
+        "id": 36,
         "name": "Jethalal",
         "description": "aye pagal aurat",
         "template": "https://www.ohyaaro.com/funny-memes-for-girlfriend-jethalal-memes/"
-  }
+  },
 
+  {
+        "id": 37,
+        "name": "Meena Kota Factory S2",
+        "description": "Ajeeb se chitra ghumte hai dimag me",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/ajeeb-se-chitra-ghumte-rehte-hai-dimaag-mai.jpg"
+  }
 ]
