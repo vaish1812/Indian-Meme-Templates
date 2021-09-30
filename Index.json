@@ -3,7 +3,6 @@
         "id": 1,
         "name": "ACP Praduman - Kuch toh Gadbad Hain",
         "description": "CID Memes",
-        "genre": ["CID Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
     },
    
@@ -11,7 +10,6 @@
         "id": 2,
         "name": "Steven Smith lying on Ground",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/Steven-smith-lying-on-the-ground.jpg"
     },
    
@@ -19,7 +17,6 @@
         "id": 3,
         "name": "KL Rahul thumbs up to Rohit Sharma",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/kl-rahul-thumbs-up-to-rohit-sharma.jpg"
     },
    
@@ -27,7 +24,6 @@
         "id": 4,
         "name": "Kohli Reaction",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/kohli-reaction.mp4"
     },
    
@@ -35,7 +31,6 @@
         "id": 5,
         "name": "Sad Virat in Dugout",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room.jpg"
     },
    
@@ -43,7 +38,6 @@
         "id": 6,
         "name": "Rohit Sharma in the Dugout",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
     },
    
@@ -51,7 +45,6 @@
         "id": 7,
         "name": "Rohit Sharma Dugout",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
     },
    
@@ -59,7 +52,6 @@
         "id": 8,
         "name": "Kyle Jamieson yorker breaks Krunal's Bat",
         "description": "IPL Memes 2021",
-        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/Kyle-Jamieson27s-yorker-breaks-Krunal-Pandya27s-bat.jpg"
     },  
   
@@ -67,13 +59,12 @@
         "id": 9,
         "name": "Kermit Sipping Tea",
         "description": "Make Kermit sipping tea memes",
-        "genre": ["IPL Memes"],
         "template": "https://i.pinimg.com/564x/ef/64/8e/ef648ebec5025baf7a5740f32c91c793.jpg"
     }, 
        
     {
         "id": 10,
-        "name": "Kermit Sipping Tea",
+        "name": "Who wants to be a Millionaire",
         "description": "Who wants to be a Millionaire meme",
         "template": "https://www.meme-arsenal.com/memes/ff787a76adcd3230e849499966599d13.jpg"
     }, 
@@ -83,7 +74,7 @@
         "name": "Eric Andre Let Me",
         "description": "Eric Andre Let Me In meme",
         "template": "https://i.pinimg.com/564x/de/47/82/de47820ea7961d454961102c3a4e91eb.jpg"
-    }, 
+    },
     
     {
         "id": 12,
@@ -91,7 +82,88 @@
         "description": " Winnie the pooh meme",
         "template": "https://i.pinimg.com/564x/26/ad/50/26ad501ed4384e24d804a747a1b64fb7.jpg"
     }, 
-  
     
+    {
+        "id": 13,
+        "name": "Kiara Adani talking on phone",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/08/Kiara-Adani-talking-on-phone-shershah-meme-template-768x432.jpg"
+    },
+   
+     {
+        "id": 14,
+        "name": "It’s not funny - Hritik Roshan",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/08/its-not-funny-znmd-meme-template-768x507.jpg"
+    },
+   
+   {
+        "id": 15,
+        "name": "Shahrukh Khan Sad Face",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/07/Shahrukh-Khan-sad-face-meme-template.jpg"
+    },
+   
+     {
+        "id": 16,
+        "name": "Baap Hoon Tera - Family Man",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/06/baap-hoon-tera-samajh-gaya-family-man-meme-template-768x432.jpg"
+    },
+   
+   {
+        "id": 17,
+        "name": "Mithun doing Martial Arts",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/06/mithun-chakravarti-doing-martial-art-meme-template-768x432.jpg"
+    },
+   
+   {
+        "id": 18,
+        "name": "Dard dilo ke kam ho jate - Himesh Reshamiya",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/06/Dard-dilo-ke-kam-ho-jate-himesh-reshmiya-meme-template-768x513.jpg"
+    },
+   
+   {
+        "id": 19,
+        "name": "Rohit Sharma Dugout",
+        "description": "IPL Memes 2021",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
+    },
+   
+   {
+        "id": 20,
+        "name": "Ambi hanging between 2 rikshaw",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/05/ambi-hanging-between-two-riksha-meme-template.jpg"
+    },  
   
+  {
+        "id": 21,
+        "name": "Bahut peeche reh gya na main yar aspirant",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/05/bahut-peeche-reh-gaya-na-main-yar-aspirant-meme-template.jpg"
+    }, 
+       
+    {
+        "id": 22,
+        "name": "Aisa koi kam nahi jo babuji ne na kiya ho",
+        "description": "Bollywood Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/05/aisa-koi-kam-nahi-jo-babuji-ne-naa-kiya-ho-amitabh-bacchan-meme-template.jpg"
+    }, 
+  
+    {
+        "id": 23,
+        "name": "Abhilash Crying",
+        "description": "TVF Aspirants",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/05/abhilash-crying-aspirant-meme-template.jpg"
+    }, 
+    
+    {
+        "id": 24,
+        "name": "Godzilla Kong vs Cheems",
+        "description": "Dogi Memes",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/02/Godzilla-Kong-vs-cheems-bonk-meme-template.jpg"
+    } 
 ]
