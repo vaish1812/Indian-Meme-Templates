@@ -291,5 +291,11 @@
         "name": "Wah Wah Wah",
         "description": "Amir Liaquat Wah Wah Wah",
         "template": "https://www.pinterest.com/pin/1028017052411789052/"
-    }
+    },
+   {
+        "id": 44,
+        "name": "IPL News",
+        "description": "Sad virat sitting in dressing room ",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room-1024x686.jpg",
+  }
 ]
