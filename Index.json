@@ -186,9 +186,17 @@
     },
   {
         "id": 27,
+
         "name": "Kya Karu Mai Marr Jau",
         "description": "Kya Karu Mai Marr Jau - Big Boss",
         "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Kya-karu-main-mar-jau-Viral-Indian-Meme-Templates-From-2020-01.jpg"
-    }
-  
+    },
+   {
+  "id": 28,
+
+        "name": "Loading Cat",
+        "description": "Loading cat meme template",
+        "template": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Floading-cat&psig=AOvVaw0L_CoTiqR5EFi5LZ-z8ShR&ust=1633111847897000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiYpe-lp_MCFQAAAAAdAAAAABAD"
+  }
+
 ]
