@@ -177,20 +177,34 @@
         "name": "Paisa hi Paisa hoga",
         "description": "Paisa hi Paisa hoga - Phir Hera Pheri",
         "template": "https://i.pinimg.com/originals/a9/8a/57/a98a5795571b4692b897c2d0a7a4a010.jpg"
-    },
-  {
-        "id": 26,
-        "name": "baarat",
-        "description": "baarat - lollipop lagelu",
-        "template": "https://static.langimg.com/thumb/msid-76242361,width-680,resizemode-3/navbharat-times.jpg"
-  },
+    },   
    
    {    
      "id": 26,
         "name": "Chilla chilla ke scheme bata de logo ko",
         "description": "Chilla chilla ke scheme bata de logo ko - Phir Hera Pheri",
         "template": "https://www.google.com/search?q=chila+chila+ke+scheme+bata+de+template&client=safari&rls=en&sxsrf=AOaemvLXfCi5bbV21BEzRxKi3zfbEN436g:1633025232107&tbm=isch&source=iu&ictx=1&fir=atj-yZjjXhFT4M%252CDkXq4CW5B3jHZM%252C_%253BTH2dcAVe3OEJsM%252CT6Qx6KB-y6gUmM%252C_%253B81CLei2meU0twM%252CNBx-2r8qP0TLqM%252C_%253BdMY6IBqCSDodXM%252C2_laneKlqo_ITM%252C_%253BZtDKabnIXmJKEM%252CT6Qx6KB-y6gUmM%252C_%253Blt0aifI8qILX6M%252CT6Qx6KB-y6gUmM%252C_%253BHlOwR-7-PMh9IM%252CSYfscjyWKAawZM%252C_%253BzXPWwkCfFa1PgM%252CB5nWYc_6JAk7CM%252C_%253BJbTySzSexLwm3M%252CNBx-2r8qP0TLqM%252C_%253BW2cejeCaSTDtQM%252CpCeXA1lIYDwLUM%252C_&vet=1&usg=AI4_-kT2yRYBb7NcjAcpRl71KnfSmYtSdg&sa=X&ved=2ahUKEwiltfmGpafzAhW0zTgGHUceB5QQ9QF6BAgJEAE#imgrc=atj-yZjjXhFT4M"
+   },
 
-    }
-  
+  {
+        "id": 27,
+        "name": "Chilla chilla ke scheme bata de logo ko",
+        "description": "Chilla chilla ke scheme bata de logo ko - Phir Hera Pheri",
+        "template": "https://www.google.com/search?q=chila+chila+ke+scheme+bata+de+template&client=safari&rls=en&sxsrf=AOaemvLXfCi5bbV21BEzRxKi3zfbEN436g:1633025232107&tbm=isch&source=iu&ictx=1&fir=atj-yZjjXhFT4M%252CDkXq4CW5B3jHZM%252C_%253BTH2dcAVe3OEJsM%252CT6Qx6KB-y6gUmM%252C_%253B81CLei2meU0twM%252CNBx-2r8qP0TLqM%252C_%253BdMY6IBqCSDodXM%252C2_laneKlqo_ITM%252C_%253BZtDKabnIXmJKEM%252CT6Qx6KB-y6gUmM%252C_%253Blt0aifI8qILX6M%252CT6Qx6KB-y6gUmM%252C_%253BHlOwR-7-PMh9IM%252CSYfscjyWKAawZM%252C_%253BzXPWwkCfFa1PgM%252CB5nWYc_6JAk7CM%252C_%253BJbTySzSexLwm3M%252CNBx-2r8qP0TLqM%252C_%253BW2cejeCaSTDtQM%252CpCeXA1lIYDwLUM%252C_&vet=1&usg=AI4_-kT2yRYBb7NcjAcpRl71KnfSmYtSdg&sa=X&ved=2ahUKEwiltfmGpafzAhW0zTgGHUceB5QQ9QF6BAgJEAE#imgrc=atj-yZjjXhFT4M"
+    },
+  {
+        "id": 28,
+        "name": "Kya Karu Mai Marr Jau",
+        "description": "Kya Karu Mai Marr Jau - Big Boss",
+        "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Kya-karu-main-mar-jau-Viral-Indian-Meme-Templates-From-2020-01.jpg"
+    },
+   {
+        "id": 29,
+        "name": "Loading Cat",
+        "description": "Loading cat meme template",
+        "template": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Floading-cat&psig=AOvVaw0L_CoTiqR5EFi5LZ-z8ShR&ust=1633111847897000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiYpe-lp_MCFQAAAAAdAAAAABAD"
+  }
+
+
+
 ]
