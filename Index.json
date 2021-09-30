@@ -1,1 +1,67 @@
-
+ [
+    {
+        "id": 1,
+        "name": "ACP Praduman - Kuch toh Gadbad Hain",
+        "description": "CID Memes",
+        "genre": "CID Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
+    },
+   
+     {
+        "id": 2,
+        "name": "Steven-smith-lying-on-the-ground",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/Steven-smith-lying-on-the-ground.jpg"
+    },
+   
+   {
+        "id": 3,
+        "name": "kl-rahul-thumbs-up-to-rohit-sharma",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/kl-rahul-thumbs-up-to-rohit-sharma.jpg"
+    },
+   
+     {
+        "id": 4,
+        "name": "kohli-reaction",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/kohli-reaction.mp4"
+    },
+   
+   {
+        "id": 5,
+        "name": "sad-virat-sitting-in-dressing-room",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room.jpg"
+    },
+   
+   {
+        "id": 6,
+        "name": "rohit-sharma-in-the-dugout",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
+    },
+   
+   {
+        "id": 7,
+        "name": "rohit-sharma-in-the-dugout",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
+    },
+   
+   {
+        "id": 8,
+        "name": "Kyle-Jamieson-yorker-breaks-Krunal-Pandya-bat",
+        "description": "IPL Memes 2021",
+        "genre": "IPL Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/Kyle-Jamieson27s-yorker-breaks-Krunal-Pandya27s-bat.jpg"
+    }  
+   
+   
+]
