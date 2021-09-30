@@ -3,15 +3,15 @@
         "id": 1,
         "name": "ACP Praduman - Kuch toh Gadbad Hain",
         "description": "CID Memes",
-        "genre": "CID Memes",
+        "genre": ["CID Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
     },
    
      {
         "id": 2,
-        "name": "Steven Smith lying on Groung",
+        "name": "Steven Smith lying on Ground",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/Steven-smith-lying-on-the-ground.jpg"
     },
    
@@ -19,7 +19,7 @@
         "id": 3,
         "name": "KL Rahul thumbs up to Rohit Sharma",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/kl-rahul-thumbs-up-to-rohit-sharma.jpg"
     },
    
@@ -27,7 +27,7 @@
         "id": 4,
         "name": "Kohli Reaction",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/kohli-reaction.mp4"
     },
    
@@ -35,7 +35,7 @@
         "id": 5,
         "name": "Sad Virat in Dugout",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room.jpg"
     },
    
@@ -43,7 +43,7 @@
         "id": 6,
         "name": "Rohit Sharma in the Dugout",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
     },
    
@@ -51,7 +51,7 @@
         "id": 7,
         "name": "Rohit Sharma Dugout",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
     },
    
@@ -59,9 +59,39 @@
         "id": 8,
         "name": "Kyle Jamieson yorker breaks Krunal's Bat",
         "description": "IPL Memes 2021",
-        "genre": "IPL Memes",
+        "genre": ["IPL Memes"],
         "template": "https://indianmemetemplates.com/wp-content/uploads/Kyle-Jamieson27s-yorker-breaks-Krunal-Pandya27s-bat.jpg"
-    }  
-   
-   
+    },  
+  
+  {
+        "id": 9,
+        "name": "Kermit Sipping Tea",
+        "description": "Make Kermit sipping tea memes",
+        "genre": ["IPL Memes"],
+        "template": "https://i.pinimg.com/564x/ef/64/8e/ef648ebec5025baf7a5740f32c91c793.jpg"
+    }, 
+       
+    {
+        "id": 10,
+        "name": "Kermit Sipping Tea",
+        "description": "Who wants to be a Millionaire meme",
+        "template": "https://www.meme-arsenal.com/memes/ff787a76adcd3230e849499966599d13.jpg"
+    }, 
+  
+    {
+        "id": 11,
+        "name": "Eric Andre Let Me",
+        "description": "Eric Andre Let Me In meme",
+        "template": "https://i.pinimg.com/564x/de/47/82/de47820ea7961d454961102c3a4e91eb.jpg"
+    }, 
+    
+    {
+        "id": 12,
+        "name": "Best,Better, Blurst",
+        "description": " Winnie the pooh meme",
+        "template": "https://i.pinimg.com/564x/26/ad/50/26ad501ed4384e24d804a747a1b64fb7.jpg"
+    }, 
+  
+    
+  
 ]
