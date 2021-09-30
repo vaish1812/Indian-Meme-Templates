@@ -268,7 +268,6 @@
         "template": "https://www.ohyaaro.com/funny-memes-for-girlfriend-jethalal-memes/"
 
   },
-
   {
         "id": 40,
         "name": "Bahubabli",
@@ -280,9 +279,30 @@
         "name": "kon tha?",
         "description": "kon tha?-kokila",
         "template": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhQEUY8EOFNfAiCwYSBR6m-eSDmms_JbiPQ&usqp=CAU"
-    }
-
-
-
+    },
+{
+        "id": 42,
+        "name": "Shivaji The Boss",
+        "description": "Kyu hila dala na",
+        "template": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto/untitled-11609312734291.jpg"
+},
+  {
+        "id": 43,
+        "name": "Akshay Kumar",
+        "description": "Paisa hi paisa hoga",
+        "template": "https://st1.bollywoodlife.com/wp-content/uploads/2020/09/FotoJet408.jpg"
+  },
+  {
+        "id": 44,
+        "name": "Wah Wah Wah",
+        "description": "Amir Liaquat Wah Wah Wah",
+        "template": "https://www.pinterest.com/pin/1028017052411789052/"
+    },
+   {
+        "id": 45,
+        "name": "IPL News",
+        "description": "Sad virat sitting in dressing room ",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room-1024x686.jpg",
+  }
 
 ]
