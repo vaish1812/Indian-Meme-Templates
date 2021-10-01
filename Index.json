@@ -390,5 +390,10 @@
         "name": "kapil sharma",
         "description": "Thug life Memes",
         "template": "https://www.youtube.com/watch?v=Gae08ynfmCw"
+    },
+  {     "id": 60,
+        "name": "Amitabh Bacchan",
+        "description": "Guess karo hum kaha hai",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
     }
 ]
