@@ -400,5 +400,37 @@
         "name": "abhi maza aayega na bhidu",
         "description": "hera pheri meme",
         "template": "https://cdn.dnaindia.com/sites/default/files/2020/08/14/919177-3-johnny-lever-birthday-memes.jpg"
+    },
+  {
+   "id": 61,
+        "name": "pankaj tripathi",
+        "description": "likh ke dta hu koi nhi ayega ",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+  },
+    {     "id": 61,
+        "name": "Amitabh Bacchan",
+        "description": "Guess karo hum kaha hai",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+    },
+  {
+        "id": 61,
+        "name": "Utha le re baba",
+        "description": "Hera Pheri Meme",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/utha-le-re-baba-1024x576.jpg"
+  },
+  {     "id": 61,
+        "name": "Salman khan",
+        "description": "New motor vehicle Act attract new memes",
+        "template": "https://www.orissapost.com/wp-content/uploads/2019/09/challan.jpg"
+   },
+  {     "id": 61,
+        "name": "Robin",
+        "description": "Ye bhi theek hai",
+        "template": "https://image.scoopwhoop.com/q30/s4.scoopwhoop.com/anj2/5fbf840818ac817d341a9fbf/f16d5285-6111-4622-8910-838611d03309.jpg"
+  },
+   {     "id": 61,
+        "name": "Baburao",
+        "description": "Saala mereko itna chota diya",
+        "template": "https://indianmemetemplates.com/saala-merko-itna-chota-diya/"
     }
 ]
