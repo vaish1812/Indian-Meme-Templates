@@ -369,6 +369,12 @@
         "name": "Baburao Meme",
         "description": "Bollywood Memes",
         "template": "https://static.langimg.com/thumb/msid-83084208,width-680,resizemode-3/navbharat-times.jpg"
+    },
+  {
+        "id": 56,
+        "name": "Abey Sale",
+        "description": "Abba harmoinum",
+        "template": "https://indianmemetemplates.com/abey-saale/"
     }
  
 ]
