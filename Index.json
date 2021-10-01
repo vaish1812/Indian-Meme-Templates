@@ -308,14 +308,18 @@
         "id": 46,
         "name": "IPL News",
         "description": "Sad virat sitting in dressing room ",
-        "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room-1024x686.jpg",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room-1024x686.jpg"
+  },
+  {
+        "id": 47,
+        "name": "Akshay Kumar",
+        "description": "Chal Jhootha ",
+        "template": "https://in.pinterest.com/pin/678354762605837422/?d=t&mt=login"
   },
    {
         "id": 47,
         "name": "School Memories",
         "description": "Friend passes the exam  ",
-        "template": "https://i.pinimg.com/originals/48/60/1a/48601a772b4c198fb4a297debe0d86d3.jpg",
+        "template": "https://i.pinimg.com/originals/48/60/1a/48601a772b4c198fb4a297debe0d86d3.jpg"
   }
-  
-
 ]
