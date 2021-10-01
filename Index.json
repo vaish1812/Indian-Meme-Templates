@@ -391,10 +391,19 @@
         "description": "Thug life Memes",
         "template": "https://www.youtube.com/watch?v=Gae08ynfmCw"
     },
+
   {     "id": 60,
         "name": "Amitabh Bacchan",
         "description": "Guess karo hum kaha hai",
         "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+  },
+    },
+    {
+        "id": 61,
+        "name": "Rajnikant OP",
+        "description": "Thug life Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/kyu-hilaa-daala-na.jpg"
+  },
     },
   {     "id": 61,
         "name": "Rasode me kaun tha!",
