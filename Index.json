@@ -396,12 +396,72 @@
         "name": "Amitabh Bacchan",
         "description": "Guess karo hum kaha hai",
         "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
-
+  },
     },
     {
         "id": 61,
         "name": "Rajnikant OP",
         "description": "Thug life Memes",
         "template": "https://indianmemetemplates.com/wp-content/uploads/kyu-hilaa-daala-na.jpg"
-  }
+  },
+    },
+  {     "id": 61,
+        "name": "Rasode me kaun tha!",
+        "description": "The meme template from Yashraj Mukhate’s viral video",
+        "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Rasode-Me-Kon-Tha-Viral-Indian-Meme-Templates-From-2020-03.jpg"
+  },
+  {
+        "id": 62,
+        "name": "quby ",
+        "description": "aur batao",
+        "template": "https://i.pinimg.com/236x/02/99/60/029960efcef2ac18f7792c6ce74d29e2.jpg "
+  },
+   {
+    "id": 63,
+        "name": "quby",
+        "description": "Tcute",
+        "template": "https://images.app.goo.gl/J1WxPDJRUzsxUk3v7 "
+  },
+  {     "id": 63 ,
+        "name": "Amitabh Bacchan",
+        "description": "ek coroe",
+        "template": "https://images.app.goo.gl/rC1KQAWeRBMPtW5UA "
+    },
+    {     "id": 64,
+        "name": "abhi maza aayega na bhidu",
+        "description": "hera pheri meme",
+        "template": "https://cdn.dnaindia.com/sites/default/files/2020/08/14/919177-3-johnny-lever-birthday-memes.jpg"
+    },
+  {
+   "id": 65,
+        "name": "pankaj tripathi",
+        "description": "likh ke dta hu koi nhi ayega ",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+  },
+    {     "id": 66,
+        "name": "Amitabh Bacchan",
+        "description": "Guess karo hum kaha hai",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+    },
+  {
+        "id": 67,
+        "name": "Utha le re baba",
+        "description": "Hera Pheri Meme",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/utha-le-re-baba-1024x576.jpg"
+  },
+  {     "id": 68,
+        "name": "Salman khan",
+        "description": "New motor vehicle Act attract new memes",
+        "template": "https://www.orissapost.com/wp-content/uploads/2019/09/challan.jpg"
+   },
+  {     "id": 69,
+        "name": "Robin",
+        "description": "Ye bhi theek hai",
+        "template": "https://image.scoopwhoop.com/q30/s4.scoopwhoop.com/anj2/5fbf840818ac817d341a9fbf/f16d5285-6111-4622-8910-838611d03309.jpg"
+  },
+   {     "id": 70,
+        "name": "Baburao",
+        "description": "Saala mereko itna chota diya",
+        "template": "https://indianmemetemplates.com/saala-merko-itna-chota-diya/"
+    }
 ]
