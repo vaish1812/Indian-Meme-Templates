@@ -5,6 +5,12 @@
       "description":"CID Memes",
       "template":"https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
    },
+      {
+      "id":555,
+      "name":"pollard vs starc iplt20",
+      "description":"IPL Memes 2020",
+      "template":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIhmwb2ahERc&psig=AOvVaw3xK-WopoiIeiNRymT_L8bg&ust=1664652649672000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDn_sKgvfoCFQAAAAAdAAAAABAD"
+   },
    {
       "id":2,
       "name":"Steven Smith lying on Ground",
@@ -527,5 +533,106 @@
       "name":"Distracted Boyfriend",
       "description":"A guy is looking at some other women than his own girlfriend",
       "template":"https://imgflip.com/meme/Distracted-Boyfriend"
+=======      "name":"chotti bacchi ho kya",
+      "description":"tiger shroff",
+      "template":"data:image/jpeg;base64,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"
    }
+   {
+
+      "id":85,
+      "name":"No comedy",
+      "description":"Comedy Memes",
+      "template":"https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
+   },
+
+      "id":294,
+      "name":"Robin",
+      "description":"Ye bhi theek hai",
+      "template":"https://image.scoopwhoop.com/q30/s4.scoopwhoop.com/anj2/5fbf840818ac817d341a9fbf/f16d5285-6111-4622-8910-838611d03309.jpg"
+   },
+{
+      "id":94,
+      "name":"Robin",
+      "description":"Ye bhi theek hai",
+      "template":"https://image.scoopwhoop.com/q30/s4.scoopwhoop.com/anj2/5fbf840818ac817d341a9fbf/f16d5285-6111-4622-8910-838611d03309.jpg"
+   },
+   {
+      "id":105,
+      "name":"Tum kab aye",
+      "description":"Funny memes",
+      "template":"https://twitter.com/askrishabh/status/1567902285426229248?lang=cs"
+   },
+{
+      "id":555,
+      "name":"Bahut peeche reh gya na main yar aspirant",
+      "description":"Bollywood Memes",
+      "template":"https://memetemplatehouse.com/wp-content/uploads/2021/05/bahut-peeche-reh-gaya-na-main-yar-aspirant-meme-template.jpg"
+   },
+ {
+      "id":556,
+      "name":"ACP Praduman - Kuch toh Gadbad Hain",
+      "description":"CID Memes",
+      "template":"https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
+   },
+
+{
+      "id":565,
+      "name":"RIP Engineering",
+      "description":"Engineering Memes",
+      "template":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC0eGxXlvDmNQSHTLUC4IvlSSjVvKXSw1dONvQvPq&s"
+   },
+ {
+      "id":566,
+      "name":"tasty mess ka khana",
+      "description":"mess memes",
+      "template":"https://indianmemetemplates.com/wp-content/uploads/Steven-smith-lying-on-the-ground.jpg"
+   }
+
+   {
+      "id":567,
+      "name":"comedy",
+      "description":"Comedy Memes",
+      "template":"https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
+   },
+
+{
+      "id"580,
+      "name":"Tod khopdi tod sale ka",
+      "description":"Hera Pheri 3",
+      "template":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fhumornama.com%2Fmeme-templates%2Fkhopdi-tod-saale-ka-meme-template%2F&psig=AOvVaw0_d1SJsEoVHQ9usYPwBbKq&ust=1664651187303000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPicy636u_oCFQAAAAAdAAAAABAE"
+   },
+   "id":775,
+   "name":"Aage kaha ja rahe ho mujhse",
+   "description":"Movie Memes",
+   "template":"https://indianmemetemplates.com/are-aage-kaha-jaa-rahe-ho-mujhse/",
+},
+
+{
+      "id"566,
+      "name":"Bade Tej ho rhe ho",
+      "description":"carry minati meme",
+      "template":"https://www.google.com/search?q=bade+tej+ho+rahe+ho&sxsrf=ALiCzsYwVpa7sm3q-dxKmmeYwkMLGTi5yQ:1664564843192&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVlbyhm736AhX60nMBHf1JBEkQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25"
+   },
+
+      "id"567,
+      "name":"women",
+      "description":"women meme",
+      "template":"https://www.google.com/url?sa=i&url=https%3A%2F%2Findianmemetemplates.com%2Fwomen-hahaha-meme-template%2F&psig=AOvVaw1CuVKm_1qWj9xDIb8gjM9a&ust=1664651975263000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPjw1_6dvfoCFQAAAAAdAAAAABAE"
+   },
+
+    {
+      "id":566,
+      "name":"Should I  Drink today",
+      "description":"Mr.Bean Memes",
+      "template":"https://myfreedo.in/img/8638838_mr%20bean%20meme%202.jpg"
+   },
+  {
+      "id" :567
+      "name":"teri naukari kha jaunga mai",
+      "description":"Carry Minati Memes",
+      "template":"https://static.abplive.com/wp-content/uploads/2020/06/30201145/carry.jpg?impolicy=abp_cdn&imwidth=720"
+
+   }
+
+
 ]
