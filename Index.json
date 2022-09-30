@@ -565,6 +565,14 @@
       "description":"Engineering Memes",
       "template":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC0eGxXlvDmNQSHTLUC4IvlSSjVvKXSw1dONvQvPq&s"
    },
+
+   {
+      "id":567,
+      "name":"comedy",
+      "description":"Comedy Memes",
+      "template":"https://indianmemetemplates.com/wp-content/uploads/daya-kuch-toh-gardbad-hai-768x498.jpg"
+   },
+
 {
       "id"580,
       "name":"Tod khopdi tod sale ka",
@@ -602,6 +610,5 @@
       "description":"Carry Minati Memes",
       "template":"https://static.abplive.com/wp-content/uploads/2020/06/30201145/carry.jpg?impolicy=abp_cdn&imwidth=720"
    }
-
 
 ]
